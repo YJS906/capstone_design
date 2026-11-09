@@ -12,8 +12,8 @@ ROS 2 Humble 기반의 **LIMO PRO 자율주행 차량**, **OpenMANIPULATOR-X 로
 
 아래 이미지를 클릭하면 전체 통합 데모 영상을 확인할 수 있습니다.
 
-<a href="https://youtu.be/hDBHK8Z4lEc?si=tarsNxkFKu5722tS">
-  <img src="https://img.youtube.com/vi/hDBHK8Z4lEc/hqdefault.jpg" width="900" alt="LIMO Mine Detection and OpenManipulator Collection Demo">
+<a href="https://youtu.be/PJqr7B7FQMQ">
+  <img src="https://img.youtube.com/vi/PJqr7B7FQMQ/hqdefault.jpg" width="900" alt="LIMO Mine Detection and OpenManipulator Collection Demo">
 </a>
 
 ### 2026 충북ICT 성과보고회 작품 소개서
