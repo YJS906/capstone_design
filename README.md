@@ -16,6 +16,16 @@ ROS 2 Humble 기반의 **LIMO PRO 자율주행 차량**, **OpenMANIPULATOR-X 로
   <img src="https://img.youtube.com/vi/hDBHK8Z4lEc/hqdefault.jpg" width="900" alt="LIMO Mine Detection and OpenManipulator Collection Demo">
 </a>
 
+### 2026 충북ICT 성과보고회 작품 소개서
+
+**1페이지**
+
+<img src="docs/images/chungbuk-ict-2026-page-1.png" width="900" alt="2026 충북ICT 성과보고회 작품 소개서 1페이지" />
+
+**2페이지**
+
+<img src="docs/images/chungbuk-ict-2026-page-2.png" width="900" alt="2026 충북ICT 성과보고회 작품 소개서 2페이지" />
+
 ---
 
 ## Project Summary
